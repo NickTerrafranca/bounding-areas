@@ -1,5 +1,4 @@
 class BoundingBox
-  # attr_reader :x, :y, :w, :h
   def initialize (x, y, w, h)
     @x = x
     @y = y
